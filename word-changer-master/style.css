@@ -1,0 +1,18 @@
+#botaoCampo{
+height: 400px;
+width: 200px;    
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: aquamarine;
+border-radius: 10px;
+
+}
+
+#campo, #botao, #resultado{
+    width: 100px;
+    font-family: 'Playwrite Cu';
+   
+}
+
